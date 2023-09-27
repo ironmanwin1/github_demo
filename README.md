@@ -2,4 +2,4 @@
 
 Computer Laboratory I 
 
-Github Desktop training
+Github Desktop training.

@@ -2,4 +2,4 @@
 
 Computer Laboraoty I
 
-Github Decktop training
+Github Desktop training.

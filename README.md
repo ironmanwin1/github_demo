@@ -1,5 +1,5 @@
 # github_demo
 
-Computer Laboratory I
+Computer Laboraoty I
 
-Github Desktop training
+Github Desktop training.
